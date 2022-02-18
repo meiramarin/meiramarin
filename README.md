@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meiramarin
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning about Tools for Data Science
+- 👀 I’m interested in Data Science, Paython and business innovation.
+- 🌱 I'm bringing 20 years of business experince combined with passion to data sciense. Yes, I know business and coding...
 - 💞️ I’m looking to collaborate on business and technology
 - 📫 How to reach me https://www.linkedin.com/in/meiramarin/
 
